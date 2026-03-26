@@ -1,0 +1,2 @@
+gato 1
+perro 1

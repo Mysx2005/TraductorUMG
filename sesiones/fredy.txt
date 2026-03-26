@@ -1,0 +1,7 @@
+casa 1
+de 1
+fredy 1
+gato 1
+la 2
+perro 2
+puta 2
