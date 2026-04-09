@@ -311,7 +311,7 @@ string gestionarUsuario() {
     int opcion;
 
     while (true) {
-        cout << "  TRADUCTOR UMG - Inicio"<<endl;
+        cout << "  TRADUCTOR UMG - Inicio!"<<endl;
         cout << "  1. Iniciar sesion"<<endl;
         cout << "  2. Registrar nuevo usuario"<<endl;
         cout << "  3. Salir"<<endl;
